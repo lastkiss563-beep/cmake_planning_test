@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/vcode/cmake_test1/cmake_planning_test1/build",
+  "command": "D:\\VScode\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\src\\pnc_map.cpp.obj -c D:\\vcode\\cmake_test1\\cmake_planning_test1\\src\\pnc_map.cpp",
+  "file": "D:/vcode/cmake_test1/cmake_planning_test1/src/pnc_map.cpp",
+  "output": "CMakeFiles/common.dir/src/pnc_map.cpp.obj"
+},
+{
+  "directory": "D:/vcode/cmake_test1/cmake_planning_test1/build",
+  "command": "D:\\VScode\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -o CMakeFiles\\common.dir\\src\\process.cpp.obj -c D:\\vcode\\cmake_test1\\cmake_planning_test1\\src\\process.cpp",
+  "file": "D:/vcode/cmake_test1/cmake_planning_test1/src/process.cpp",
+  "output": "CMakeFiles/common.dir/src/process.cpp.obj"
+},
+{
+  "directory": "D:/vcode/cmake_test1/cmake_planning_test1/build",
+  "command": "D:\\VScode\\mingw64\\bin\\g++.exe  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c D:\\vcode\\cmake_test1\\cmake_planning_test1\\planning_main.cpp",
+  "file": "D:/vcode/cmake_test1/cmake_planning_test1/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+}
+]
